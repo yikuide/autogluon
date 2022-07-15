@@ -55,7 +55,7 @@ requirements = [
     'tqdm>=4.38.0',
     'paramiko>=2.5.0',
     'dask==2.6.0',
-    'distributed==2.6.0',
+    'distributed==2021.10.0',
     'ConfigSpace<=0.4.10',
     'gluoncv>=0.5.0',
     'gluonnlp==0.8.1',
